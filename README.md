@@ -6,3 +6,4 @@ kjkjkjkjkj
 33333
 zmieniam w xcode czy sie uda
 dalej do końca nie wiem co to pull 
+zmiana z desktopa
