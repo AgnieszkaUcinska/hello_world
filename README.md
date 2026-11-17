@@ -7,3 +7,4 @@ kjkjkjkjkj
 zmieniam w xcode czy sie uda
 dalej do końca nie wiem co to pull 
 zmiana z desktopa
+cos tam nowego dopisuje
